@@ -1,7 +1,8 @@
 # Java-Servlets
 Some exercises for the UTH Course of Web Development. 
 
-Introductory course to basic web architecture and web app development using Java Servlets.
+Introductory course to basic web architecture and web app development using Java Servlets and
+Apache Tomcat as the container.
 
 
 - 1: The creation of a basic portfolio.
