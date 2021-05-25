@@ -7,7 +7,11 @@ Apache Tomcat as the container.
 
 - 1: The creation of a basic portfolio.
 - 2: The creation of a form for shop products.
-- 3: Enhancement of the 2nd exercise.
+
+  A simple form to add a product in a database.
+  DB created with postgresql.
+  
+- 3: Enhancement of the 2nd exercise using using JPA.
 
 # Note: 
 
