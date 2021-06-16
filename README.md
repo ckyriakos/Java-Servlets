@@ -1,5 +1,5 @@
 # Java-Servlets
-Some exercises for the UTH Course of Web Development. 
+Some exercises for the UTH  Web Development Course. 
 
 Introductory course to basic web architecture and web app development using Java Servlets and
 Apache Tomcat as the container.
